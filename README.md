@@ -1,7 +1,7 @@
 # Homework Assignment - Working with data - Pandas 
 
 
-![GoalCircleGIF](https://github.com/julotec/pandas_examples/assets/135429630/6bb0f9fb-26b6-4a7a-820a-7c309de18f57)
+<center>![GoalCircleGIF](https://github.com/julotec/pandas_examples/assets/135429630/6bb0f9fb-26b6-4a7a-820a-7c309de18f57)</center>
 
 
 ## Part One: Analyzing birth rate of Ukrainian inhabitants in 1950-2019
