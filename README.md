@@ -31,11 +31,12 @@ the processed data will be saved to a new CSV file.
 To load the CSV file, we will use the Pandas library in Python:
 
 
-```python
+'''
 import pandas as pd
 
 Load the data
 data = pd.read_csv("2017_jun_final.csv")
+'''
 
 ## Part Three : Analysis of a survey conducted among developers in June 2017
 ____________________________________________________________________________
