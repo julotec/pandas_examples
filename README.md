@@ -2,7 +2,9 @@
 
 
 <center>
-  ![GoalCircleGIF](https://github.com/julotec/pandas_examples/assets/135429630/6bb0f9fb-26b6-4a7a-820a-7c309de18f57)
+  
+![Alt Text](https://github.com/julotec/pandas_examples/assets/135429630/6bb0f9fb-26b6-4a7a-820a-7c309de18f57)
+
 </center>
 
 
