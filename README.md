@@ -36,6 +36,7 @@ import pandas as pd
 
 Load the data
 data = pd.read_csv("2017_jun_final.csv")
+
 '''
 
 ## Part Three : Analysis of a survey conducted among developers in June 2017
